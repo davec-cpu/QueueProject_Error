@@ -4,5 +4,5 @@ _Tổng quan về thay đổi_
 _Nói rõ hơn về các thay đổi_
 ### Tham khảo
 ### Kiểm tra
-- [ ] Thay đổi đã được kiểm tra
+- [x] Thay đổi đã được kiểm tra
 - [ ] Khách hàng chấp thuận
